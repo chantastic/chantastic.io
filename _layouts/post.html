@@ -1,7 +1,16 @@
 ---
-layout: default
+layout: html_wrapper
 ---
 
-<a href="/">Home</a>
+<article class="article">
+  <header class="article__header">
+    {{page.title}}
+  </header>
 
-{{ content }}
+  {{ content }}
+
+  <footer>
+    <em>&mdash; <a href="http://twitter.com/chantastic">chan</a></em>
+  </footer>
+</article>
+
