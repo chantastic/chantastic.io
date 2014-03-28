@@ -1,0 +1,5 @@
+# Use Pygments for code highlighting
+pygments:  true
+
+# Title only urls by defuault
+permalink: /:title
