@@ -1,0 +1,66 @@
+---
+layout: html_wrapper
+---
+
+<div markdown="1" class="notes notes--markdown">
+# EmberConf 2014
+[![Yehuda Katz + Tom Dale, Keynote, wycats tomdale, first][1-1s]][1-1]
+[![Yehuda Katz + Tom Dale, Keynote, wycats tomdale, second][1-2s]][2]
+[![Andre Malan Heyjin Kim, Using Ember to Make the Seemingly Impossible Easy ramcia heyjinkim][2s]][2]
+[![Robert Jackson, Contributing to Ember: The Inside Scoop, rwjblue][3s]][3]
+[![Igor Terzic, ember-data and The Way Forward, terzicigor][4s]][4]
+[![Jo Liss, No More 'grunt watch' Modern Build Workflows with Broccoli, joliss][5s]][5]
+[![Edward-Faulkner, Animations and Transitions in an Ember App, eaf4][6s]][6]
+[![John Paul, Ember Components Transclude My Directives, johnkpaul][7s]][7]
+[![Jeremy Mack, Modeling the App Store and iTunes with ember-data, mutewinter][8s]][8]
+[![Erik Bryn Kris Seldmen, HTMLBars the Next-Generation of Templating in Ember.js, ebryn krisseldmen][9s]][9]
+[![Ryan Florence, The {{x-foo}} in-you, ryanflorence][10s]][10]
+[![Stef Penner, ember-cli, stefpenner][11s]][11]
+[![Devaris Brown, Ember is for the Children, devarisbrown][12s]][12]
+[![Alex Matchneer, The One Where Mr. Router Embraces the Controller, query-params-new-new, machty][13s]][13]
+[![Eric Berry, The Unofficial, Official Testing Guide, coderberry][14s]][14]
+[![Christopher Meiklejohn, Convergent/Divergent, cmeik][15s]][15]
+[![Nathan Hammond, Controlling Route Traversal with Flows, nathanhammond][16s]][16]
+[![Matthew Beale, Snappy Means Happy: Performance in Ember Apps, mixonic][17s]][17]
+[![Dave Herman, Keynote, littlecalculist][18s]][18]
+</div>
+
+[1-1]: /images/emberconf2014/emberconf_2014_01-1_tomhuda_yahuda-kats_tom-dale_keynote_wycats_tomdale.jpg
+[1-2]: /images/emberconf2014/emberconf_2014_01-2_tomhuda_yahuda-kats_tom-dale_keynote_wycats_tomdale.jpg
+[2]: /images/emberconf2014/emberconf_2014_02_andre-malan_heyjin-kim_using-ember-to-make-the-seemingly-impossible-easy_ramcia_heyjinkim.jpg
+[3]: /images/emberconf2014/emberconf_2014_03_robert-jackson_contributing-to-ember_the-inside-scoop_rwjblue.jpg
+[4]: /images/emberconf2014/emberconf_2014_04_igor-terzic_ember-data-and-the-way-forward_terzicigor.jpg
+[5]: /images/emberconf2014/emberconf_2014_05_jo-liss_no-more-grunt-watch_modern-build-workflows-with-broccoli_joliss.jpg
+[6]: /images/emberconf2014/emberconf_2014_06_edward-faulkner_animations-and-transitions-in-an-ember-app_eaf4.jpg
+[7]: /images/emberconf2014/emberconf_2014_07_john-paul_ember-components-transclude-my-directives_johnkpaul.jpg
+[8]: /images/emberconf2014/emberconf_2014_08_jeremy-mack_modeling-the-app-store-and-itunes-with-ember-data_mutewinter.jpg
+[9]: /images/emberconf2014/emberconf_2014_09_erik-bryn_kris-seldmen_htmlbars_the-next-generation-of-templating-in-ember-js_ebryn_krisseldmen.jpg
+[10]: /images/emberconf2014/emberconf_2014_10_ryan_florence_the-x-foo-in-you_ryanflorence.jpg
+[11]: /images/emberconf2014/emberconf_2014_11_stef-penner_ember-cli_stefpenner.jpg
+[12]: /images/emberconf2014/emberconf_2014_12_devaris-brown_ember-is-for-the-children_devarisbrown.jpg
+[13]: /images/emberconf2014/emberconf_2014_13_alex-matchneer_the-one-where-mr-router-embraces-the-controller_query-params_machty.jpg
+[14]: /images/emberconf2014/emberconf_2014_14_eric-berry_the-unofficial-official-testing-guide_coderberry.jpg
+[15]: /images/emberconf2014/emberconf_2014_15_christopher-meiklejohn_convergent-divergent_cmeik.jpg
+[16]: /images/emberconf2014/emberconf_2014_16_nathan-hammond_controlling-route-traversal-with-flows_nathanhammond.jpg
+[17]: /images/emberconf2014/emberconf_2014_17_matthew-beale_snappy-means-happy_performance-in-ember-apps_mixonic.jpg
+[18]: /images/emberconf2014/emberconf_2014_18_dave-herman_keynote_littlecalculist.jpg
+
+[1-1s]: /images/emberconf2014/emberconf_2014_01-1_tomhuda_yahuda-kats_tom-dale_keynote_wycats_tomdale--small.jpg
+[1-2s]: /images/emberconf2014/emberconf_2014_01-2_tomhuda_yahuda-kats_tom-dale_keynote_wycats_tomdale--small.jpg
+[2s]: /images/emberconf2014/emberconf_2014_02_andre-malan_heyjin-kim_using-ember-to-make-the-seemingly-impossible-easy_ramcia_heyjinkim--small.jpg
+[3s]: /images/emberconf2014/emberconf_2014_03_robert-jackson_contributing-to-ember_the-inside-scoop_rwjblue--small.jpg
+[4s]: /images/emberconf2014/emberconf_2014_04_igor-terzic_ember-data-and-the-way-forward_terzicigor--small.jpg
+[5s]: /images/emberconf2014/emberconf_2014_05_jo-liss_no-more-grunt-watch_modern-build-workflows-with-broccoli_joliss--small.jpg
+[6s]: /images/emberconf2014/emberconf_2014_06_edward-faulkner_animations-and-transitions-in-an-ember-app_eaf4--small.jpg
+[7s]: /images/emberconf2014/emberconf_2014_07_john-paul_ember-components-transclude-my-directives_johnkpaul--small.jpg
+[8s]: /images/emberconf2014/emberconf_2014_08_jeremy-mack_modeling-the-app-store-and-itunes-with-ember-data_mutewinter--small.jpg
+[9s]: /images/emberconf2014/emberconf_2014_09_erik-bryn_kris-seldmen_htmlbars_the-next-generation-of-templating-in-ember-js_ebryn_krisseldmen--small.jpg
+[10s]: /images/emberconf2014/emberconf_2014_10_ryan_florence_the-x-foo-in-you_ryanflorence--small.jpg
+[11s]: /images/emberconf2014/emberconf_2014_11_stef-penner_ember-cli_stefpenner--small.jpg
+[12s]: /images/emberconf2014/emberconf_2014_12_devaris-brown_ember-is-for-the-children_devarisbrown--small.jpg
+[13s]: /images/emberconf2014/emberconf_2014_13_alex-matchneer_the-one-where-mr-router-embraces-the-controller_query-params_machty--small.jpg
+[14s]: /images/emberconf2014/emberconf_2014_14_eric-berry_the-unofficial-official-testing-guide_coderberry--small.jpg
+[15s]: /images/emberconf2014/emberconf_2014_15_christopher-meiklejohn_convergent-divergent_cmeik--small.jpg
+[16s]: /images/emberconf2014/emberconf_2014_16_nathan-hammond_controlling-route-traversal-with-flows_nathanhammond--small.jpg
+[17s]: /images/emberconf2014/emberconf_2014_17_matthew-beale_snappy-means-happy_performance-in-ember-apps_mixonic--small.jpg
+[18s]: /images/emberconf2014/emberconf_2014_18_dave-herman_keynote_littlecalculist--small.jpg

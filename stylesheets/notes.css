@@ -1,0 +1,35 @@
+.notes {
+  margin: 0 auto;
+  width: 525px;
+}
+
+.notes--markdown h1 {
+  color: #444;
+}
+
+.notes--markdown a img {
+  transition : border 300ms ease-out;
+  -webkit-transition : border 300ms ease-out;
+  -moz-transition : border 300ms ease-out;
+  -o-transition : border 300ms ease-out;
+}
+
+.notes--markdown a:hover img {
+  border-color: #6C8BDB;
+}
+
+.notes--markdown img {
+  width: 100%;
+  border: 1px solid #e2e2e2;
+}
+
+@media (max-width: 527px) {
+  .notes {
+    width: 100%;
+    padding: 0 2.5%
+  }
+
+  .notes--markdown img {
+    width: 95%
+  }
+}
