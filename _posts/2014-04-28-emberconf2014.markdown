@@ -1,5 +1,6 @@
 ---
 layout: html_wrapper
+title: EmberConf 2014 Notes
 ---
 
 <div markdown="1" class="notes notes--markdown">
