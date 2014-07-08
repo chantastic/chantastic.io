@@ -1,0 +1,49 @@
+---
+layout: html_wrapper
+title: JSConf 2014 Notes
+---
+
+<div markdown="1" class="notes notes--markdown">
+# JSConf 2014
+[![neil-fein_neilfein_writing-custom-dsls][1s]][1]
+[![jenn-turner_renrutnnej_lessons-in-emotional-safety][2s]][2]
+[![nico-bevacqua_nzgb_front-end-ops-tooling][3s]][3]
+[![mark-dimarco_markmarkoh_user-interface-algorithms][4s]][4]
+[![guillaume-marty_g_marty_play-dvds-in-javascript][5s]][5]
+[![james-long_jlongster_unshackling-javascript-with-macros][6s]][6]
+[![jenn-schiffer_jennschiffer_whats-the-harm-in-sorting][7s]][7]
+[![guy-bedford_guybedford_package-management-for-es6-modules][8s]][8]
+[![angelina-fabbro_angelinamagnum_improving-2d-and-3d-canvas-performance][9s]][9]
+[![ryan-florence_ryanflorence_embularactymerbone][10s]][10]
+[![spike-brehm_building-isomorphic-apps][11s]][11]
+[![kassandra-perch_kassandra_perch_modular-application-architecture-in-javascript][12s]][12]
+[![brian-brennan_brianloveswords_being-human][13s]][13]
+</div>
+
+[1]:  /images/jsconf2014/jsconf_2014_01_neil-fein_neilfein_writing-custom-dsls.jpeg
+[2]:  /images/jsconf2014/jsconf_2014_02_jenn-turner_renrutnnej_lessons-in-emotional-safety.jpeg
+[3]:  /images/jsconf2014/jsconf_2014_03_nico-bevacqua_nzgb_front-end-ops-tooling.jpeg
+[4]:  /images/jsconf2014/jsconf_2014_04_mark-dimarco_markmarkoh_user-interface-algorithms.jpeg
+[5]:  /images/jsconf2014/jsconf_2014_05_guillaume-marty_g_marty_play-dvds-in-javascript.jpeg
+[6]:  /images/jsconf2014/jsconf_2014_06_james-long_jlongster_unshackling-javascript-with-macros.jpeg
+[7]:  /images/jsconf2014/jsconf_2014_07_jenn-schiffer_jennschiffer_whats-the-harm-in-sorting.jpeg
+[8]:  /images/jsconf2014/jsconf_2014_08_guy-bedford_guybedford_package-management-for-es6-modules.jpeg
+[9]:  /images/jsconf2014/jsconf_2014_09_angelina-fabbro_angelinamagnum_improving-2d-and-3d-canvas-performance.jpeg
+[10]: /images/jsconf2014/jsconf_2014_10_ryan-florence_ryanflorence_embularactymerbone.jpeg
+[11]: /images/jsconf2014/jsconf_2014_11_spike-brehm_building-isomorphic-apps.jpeg
+[12]: /images/jsconf2014/jsconf_2014_12_kassandra-perch_kassandra_perch_modular-application-architecture-in-javascript.jpeg
+[13]: /images/jsconf2014/jsconf_2014_13_brian-brennan_brianloveswords_being-human.jpeg
+
+[1s]:  /images/jsconf2014/jsconf_2014_01_neil-fein_neilfein_writing-custom-dsls--small.jpeg
+[2s]:  /images/jsconf2014/jsconf_2014_02_jenn-turner_renrutnnej_lessons-in-emotional-safety--small.jpeg
+[3s]:  /images/jsconf2014/jsconf_2014_03_nico-bevacqua_nzgb_front-end-ops-tooling--small.jpeg
+[4s]:  /images/jsconf2014/jsconf_2014_04_mark-dimarco_markmarkoh_user-interface-algorithms--small.jpeg
+[5s]:  /images/jsconf2014/jsconf_2014_05_guillaume-marty_g_marty_play-dvds-in-javascript--small.jpeg
+[6s]:  /images/jsconf2014/jsconf_2014_06_james-long_jlongster_unshackling-javascript-with-macros--small.jpeg
+[7s]:  /images/jsconf2014/jsconf_2014_07_jenn-schiffer_jennschiffer_whats-the-harm-in-sorting--small.jpeg
+[8s]:  /images/jsconf2014/jsconf_2014_08_guy-bedford_guybedford_package-management-for-es6-modules--small.jpeg
+[9s]:  /images/jsconf2014/jsconf_2014_09_angelina-fabbro_angelinamagnum_improving-2d-and-3d-canvas-performance--small.jpeg
+[10s]: /images/jsconf2014/jsconf_2014_10_ryan-florence_ryanflorence_embularactymerbone--small.jpeg
+[11s]: /images/jsconf2014/jsconf_2014_11_spike-brehm_building-isomorphic-apps--small.jpeg
+[12s]: /images/jsconf2014/jsconf_2014_12_kassandra-perch_kassandra_perch_modular-application-architecture-in-javascript--small.jpeg
+[13s]: /images/jsconf2014/jsconf_2014_13_brian-brennan_brianloveswords_being-human--small.jpeg
