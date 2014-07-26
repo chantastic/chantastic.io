@@ -1,0 +1,8 @@
+---
+layout: photos
+title: Lego
+---
+
+<h1>Lego</h1>
+<p>This kid has imagination.</p>
+<iframe src="https://www.flickr.com/photos/52733011@N07/14463119950/player/" width="800" height="530" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
