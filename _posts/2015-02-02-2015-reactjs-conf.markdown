@@ -1,0 +1,49 @@
+---
+layout: html_wrapper
+title: React.js Conf 2015 Notes
+---
+
+<div markdown="1" class="notes notes--markdown">
+# React.js Conf 2015
+[![keynote_react-native-announcement_tom-occhino_@tomocchino][1]][1]
+[![tweaking-your-page-in-real-time-without-leaving-the-comfort-of-your-editor_brenton-simpson_@appsforartists][2]][2]
+[![unlocking-the-structure-of-your-react-applications-with-the-ast_gurdas-nijor_@gnijor][3]][3]
+[![data-fetching-for-react-applications-at-facebook_relay_daniels-schafer_@dlshafer_jing-chen_@jingc][4]][4]
+[![communicating-with-channels_james-long_@jlongster][5]][5]
+[![react-router-increases-your-productivity_michael-jackson_@mjackson][6]][6]
+[![full-stack-flux_pete-hunt_@floydophone][7]][7]
+[![making-your-app-faster-with-high-performance-components_hedger-wang_@hedgerwang][8]][8]
+[![format-data-and-strings-in-any-language-with-format-js-and-react-intl_eric-ferraiuolo_@ericf][9]][9]
+
+[![hype_ryan-florence_@ryanflorence][10]][10]
+[![keynote-react-native-deep-dive_christopher-chedeau_@vjuex][11]][11]
+[![the-complementarity-of-react-and-web-components_andrew-rota_@andrewrota][12]][12]
+[![immutable-data-and-react_lee-byron_@leeb][13]][13]
+[![how-netflix-plans-to-enhance-your-television-experience_jafar-husain_@jhusain_beyond-the-dom][14]][14]
+[![scalable-data-visualization_zach-nation][15]][15]
+[![react-refracted_david-nolan_@swannodette][16]][16]
+[![flux-panel_bill_fisher_@fisherwebdev][17]][17]
+[![codecademys-approach-to-component-communication_bonnie-eisenman_@brindelle][18]][18]
+[![static-typing-with-flow_james-brantley][19]][19]
+</div>
+
+[1]: /images/2015-reactjs-conf/reactjsconf_2015_1_keynote_react-native-announcement_tom-occhino_@tomocchino.jpeg
+[2]: /images/2015-reactjs-conf/reactjsconf_2015_2_tweaking-your-page-in-real-time-without-leaving-the-comfort-of-your-editor_brenton-simpson_@appsforartists.jpeg
+[3]: /images/2015-reactjs-conf/reactjsconf_2015_3_unlocking-the-structure-of-your-react-applications-with-the-ast_gurdas-nijor_@gnijor.jpeg
+[4]: /images/2015-reactjs-conf/reactjsconf_2015_4_data-fetching-for-react-applications-at-facebook_relay_daniels-schafer_@dlshafer_jing-chen_@jingc.jpeg
+[5]: /images/2015-reactjs-conf/reactjsconf_2015_5_communicating-with-channels_james-long_@jlongster.jpeg
+[6]: /images/2015-reactjs-conf/reactjsconf_2015_6_react-router-increases-your-productivity_michael-jackson_@mjackson.jpeg
+[7]: /images/2015-reactjs-conf/reactjsconf_2015_7_full-stack-flux_pete-hunt_@floydophone.jpeg
+[8]: /images/2015-reactjs-conf/reactjsconf_2015_8_making-your-app-faster-with-high-performance-components_hedger-wang_@hedgerwang.jpeg
+[9]: /images/2015-reactjs-conf/reactjsconf_2015_9_format-data-and-strings-in-any-language-with-format-js-and-react-intl_eric-ferraiuolo_@ericf.jpeg
+
+[10]: /images/2015-reactjs-conf/reactjsconf_2015_10_hype_ryan-florence_@ryanflorence.jpeg
+[11]: /images/2015-reactjs-conf/reactjsconf_2015_11_keynote-react-native-deep-dive_christopher-chedeau_@vjuex.jpeg
+[12]: /images/2015-reactjs-conf/reactjsconf_2015_12_the-complementarity-of-react-and-web-components_andrew-rota_@andrewrota.jpeg
+[13]: /images/2015-reactjs-conf/reactjsconf_2015_13_immutable-data-and-react_lee-byron_@leeb.jpeg
+[14]: /images/2015-reactjs-conf/reactjsconf_2015_14_how-netflix-plans-to-enhance-your-television-experience_jafar-husain_@jhusain_beyond-the-dom.jpeg
+[15]: /images/2015-reactjs-conf/reactjsconf_2015_15_scalable-data-visualization_zach-nation.jpeg
+[16]: /images/2015-reactjs-conf/reactjsconf_2015_16_react-refracted_david-nolan_@swannodette.jpeg
+[17]: /images/2015-reactjs-conf/reactjsconf_2015_17_flux-panel_bill_fisher_@fisherwebdev.jpeg
+[18]: /images/2015-reactjs-conf/reactjsconf_2015_18_codecademys-approach-to-component-communication_bonnie-eisenman_@brindelle.jpeg
+[19]: /images/2015-reactjs-conf/reactjsconf_2015_19_static-typing-with-flow_james-brantley.jpeg
