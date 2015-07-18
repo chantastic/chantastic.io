@@ -1,0 +1,45 @@
+---
+layout: html_wrapper
+title: 2015 React Europe Notes
+---
+
+<div markdown="1" class="notes notes--markdown">
+# 2015 React Europe
+
+[![2015_react-europe_01_keynote_christopher-chedeau_@vjeux.jpeg][1]][1]
+[![2015_react-europe_04_react-native-bulding-fluid-user-interfaces_spencer-athens-@sahrens.jpeg][2]][2]
+[![2015_react-europe_05_exploring-graphql_lee-byron_@leeb.jpeg][3]][3]
+[![2015_react-europe_06_ryan-florence_@ryanflorence.jpeg][4]][4]
+[![2015_react-europe_07_live-react-hot-reloading-with-time-travel_dan-abramov_@dan_abramov.jpeg][5]][5]
+[![2015_react-europe_08_relay-an-application-framework-for-react_joseph-savona_@en_js.jpe][6]][6]
+[![2015_react-europe_09_back-to-text-ui_mikhail-davydov_@azproduction.jpeg][7]][7]
+[![2015_react-europe_10_dom-as-a-second-class-citizen_sebastian-markbage_@sebmarkbage.jpeg][8]][8]
+[![2015_react-europe_11_improving-your-workflow-with-code-transformation_sebastian-mckenzie_@sebmck.jpeg][9]][9]
+[![2015_react-europe_12_the-state-of-animation-in-react_cheng-lou_@_chenglou.jpeg][10]][10]
+[![2015_react-europe_13_simplifying-the-data-layer_kevin-robinson_@krob.jpeg][11]][11]
+[![2015_react-europe_14_going-mobile-with-react_jed-watson_@jedwatson.jpeg][12]][12]
+[![2015_react-europe_15_react-router_michael-jackson_@mjackson.jpeg][13]][13]
+[![2015_react-europe_16_creating-a-graphql-server_nicholas-schrock_@shrockn_dan-schafer_@dlshafer.jpeg][14]][14]
+[![2015_react-europe_17_isomorphic-flux_michael-ridgway_theridgway.jpeg][15]][15]
+[![2015_react-europe_18_building-submarines-that-dont-leak_aria-buckles_@ariabuckles.jpeg][16]][16]
+[![2015_react-europe_19_building-for-plugins-with-react-and-flux_ben-gotow_@bengotow_even-morika_@e0m.jpeg][17]][17]
+
+</div>
+
+[1]:  /images/2015-react-europe/2015_react-europe_01_keynote_christopher-chedeau_@vjeux.jpeg
+[2]:  /images/2015-react-europe/2015_react-europe_04_react-native-bulding-fluid-user-interfaces_spencer-athens-@sahrens.jpeg
+[3]:  /images/2015-react-europe/2015_react-europe_05_exploring-graphql_lee-byron_@leeb.jpeg
+[4]:  /images/2015-react-europe/2015_react-europe_06_ryan-florence_@ryanflorence.jpeg
+[5]:  /images/2015-react-europe/2015_react-europe_07_live-react-hot-reloading-with-time-travel_dan-abramov_@dan_abramov.jpeg
+[6]:  /images/2015-react-europe/2015_react-europe_08_relay-an-application-framework-for-react_joseph-savona_@en_js.jpeg
+[7]:  /images/2015-react-europe/2015_react-europe_09_back-to-text-ui_mikhail-davydov_@azproduction.jpeg
+[8]:  /images/2015-react-europe/2015_react-europe_10_dom-as-a-second-class-citizen_sebastian-markbage_@sebmarkbage.jpeg
+[9]:  /images/2015-react-europe/2015_react-europe_11_improving-your-workflow-with-code-transformation_sebastian-mckenzie_@sebmck.jpeg
+[10]: /images/2015-react-europe/2015_react-europe_12_the-state-of-animation-in-react_cheng-lou_@_chenglou.jpeg
+[11]: /images/2015-react-europe/2015_react-europe_13_simplifying-the-data-layer_kevin-robinson_@krob.jpeg
+[12]: /images/2015-react-europe/2015_react-europe_14_going-mobile-with-react_jed-watson_@jedwatson.jpeg
+[13]: /images/2015-react-europe/2015_react-europe_15_react-router_michael-jackson_@mjackson.jpeg
+[14]: /images/2015-react-europe/2015_react-europe_16_creating-a-graphql-server_nicholas-schrock_@shrockn_dan-schafer_@dlshafer.jpeg
+[15]: /images/2015-react-europe/2015_react-europe_17_isomorphic-flux_michael-ridgway_theridgway.jpeg
+[16]: /images/2015-react-europe/2015_react-europe_18_building-submarines-that-dont-leak_aria-buckles_@ariabuckles.jpeg
+[17]: /images/2015-react-europe/2015_react-europe_19_building-for-plugins-with-react-and-flux_ben-gotow_@bengotow_even-morika_@e0m.jpeg
