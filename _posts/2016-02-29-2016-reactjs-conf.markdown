@@ -1,0 +1,35 @@
+---
+layout: html_wrapper
+title: 2016 React.js Conf
+---
+
+<div markdown="1" class="notes notes--markdown">
+# 2016 React.js Conf
+
+[![2016-reactjs-conf_01_keynote_nick-shrock_@schrockn.jpeg][1]][1]
+[![2016-reactjs-conf_02_what-lies-ahead_ben-alpert_@soprano.jpeg][2]][2]
+[![2016-reactjs-conf_03_rick-text-editing-with-react_isaac-salier-hallendag_@hallendag.jpeg][3]][3]
+[![2016-reactjs-conf_04_a-cartoon-guide-to-the-wilds-of-data-handling_lin-clark_@linclark.jpeg][4]][4]
+[![2016-reactjs-conf_05_demystifying-tech-recruiting_helena-milosevic_@sfhelenasf.jpeg][5]][5]
+[![2016-reactjs-conf_06_web-like-release-agility-for-native-apps_jonathan-carter_parashuram_@lostintoangent_@nparashuram.jpeg][6]][6]
+[![2016-reactjs-conf_07_team-x-technology_james-ide_@ji.jpeg][7]][7]
+[![2016-reactjs-conf_08_universal-gl-effects-for-the-web_gaetan-renaudau_@greweb.jpeg][8]][8]
+[![2016-reactjs-conf_09_performance-without-compromise_steve_mcguire_@s_m_mcguire.jpeg][9]][9]
+[![2016-reactjs-conf_10_speeding-up-startup-for-large-react-apps_bhuwan-khattar_@voideanvalue.jpeg][10]][10]
+[![2016-reactjs-conf_11_rethinking-all-practices_jamison-dance_@jergason.jpeg][11]][11]
+[![2016-reactjs-conf_12_back-to-react_andrew-clark_@acdlite.jpeg][12]][12]
+
+</div>
+
+[1]:  /images/2016-reactjs-conf/2016-reactjs-conf_01_keynote_nick-shrock_@schrockn.jpeg
+[2]:  /images/2016-reactjs-conf/2016-reactjs-conf_02_what-lies-ahead_ben-alpert_@soprano.jpeg
+[3]:  /images/2016-reactjs-conf/2016-reactjs-conf_03_rick-text-editing-with-react_isaac-salier-hallendag_@hallendag.jpeg
+[4]:  /images/2016-reactjs-conf/2016-reactjs-conf_04_a-cartoon-guide-to-the-wilds-of-data-handling_lin-clark_@linclark.jpeg
+[5]:  /images/2016-reactjs-conf/2016-reactjs-conf_05_demystifying-tech-recruiting_helena-milosevic_@sfhelenasf.jpeg
+[6]:  /images/2016-reactjs-conf/2016-reactjs-conf_06_web-like-release-agility-for-native-apps_jonathan-carter_parashuram_@lostintoangent_@nparashuram.jpeg
+[7]:  /images/2016-reactjs-conf/2016-reactjs-conf_07_team-x-technology_james-ide_@ji.jpeg
+[8]:  /images/2016-reactjs-conf/2016-reactjs-conf_08_universal-gl-effects-for-the-web_gaetan-renaudau_@greweb.jpeg
+[9]:  /images/2016-reactjs-conf/2016-reactjs-conf_09_performance-without-compromise_steve_mcguire_@s_m_mcguire.jpeg
+[10]: /images/2016-reactjs-conf/2016-reactjs-conf_10_speeding-up-startup-for-large-react-apps_bhuwan-khattar_@voideanvalue.jpeg
+[11]: /images/2016-reactjs-conf/2016-reactjs-conf_11_rethinking-all-practices_jamison-dance_@jergason.jpeg
+[12]: /images/2016-reactjs-conf/2016-reactjs-conf_12_back-to-react_andrew-clark_@acdlite.jpeg
