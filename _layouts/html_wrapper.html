@@ -3,6 +3,7 @@
   <head>
     <meta charset='utf-8'>
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <meta name="viewport" content="width=device-width">
     <link href='https://fonts.googleapis.com/css?family=Chivo:900' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" type="text/css" href="/stylesheets/stylesheet.css" media="screen" />
     <link rel="stylesheet" type="text/css" href="/stylesheets/pygment_trac.css" media="screen" />
@@ -13,11 +14,13 @@
     <title>chantasti.io</title>
   </head>
 
-  <body>
+  <body class="ff-sans">
+    <div class="p-1r@mn p-4r@md">
 
-    {{ content }}
+      {{ content }}
 
-    {% include analytics.html %}
+      {% include analytics.html %}
 
+    </div>
   </body>
 </html>

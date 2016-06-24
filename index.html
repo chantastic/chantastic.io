@@ -2,12 +2,26 @@
 layout: html_wrapper
 ---
 
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
+<h2>chantastic</h2>
+<h3>Michael Chan</h3>
 
-<p style="margin-left: 25px">- <a href="http://twitter.com/chantastic">chantastic</a></p>
+<p>
+  A web developer-designer
+</p>
+
+<section>
+  <h4>Conference sketchnotes</h4>
+
+  <ul style="padding-left: 1.2em">
+    {% for post in site.posts %}
+      <li>
+        <a href="{{ post.url }}">{{ post.title }}</a>
+      </li>
+    {% endfor %}
+  </ul>
+</section>
+
+<footer>
+  <a href="http://twitter.com/chantastic">chantastic</a>
+  <a href="http://github.com/chantastic">github</a>
+</footer>

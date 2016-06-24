@@ -1,2 +1,14 @@
 @import '/stylesheets/normalize.css';
 @import '/stylesheets/notes.css';
+
+.ff-sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Helvetica Neue', Helvetica, sans-serif }
+
+.ff-serif { font-family: Athelas, Georgia, serif }
+
+@media( min-width: 0 ) {
+  .p-1r\@mn { padding: 1rem }
+}
+
+@media( min-width: 768px ) {
+  .p-4r\@md { padding: 4rem }
+}
