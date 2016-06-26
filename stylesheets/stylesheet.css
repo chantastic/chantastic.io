@@ -7,6 +7,8 @@
 
 .ff-mono { font-family: "source code pro", monospace, Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace, serif }
 
+.list { padding-left: 1.2rem }
+
 @media( min-width: 0 ) {
   .p-1r\@mn { padding: 1rem }
 }
