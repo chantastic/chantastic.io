@@ -5,6 +5,8 @@
 
 .ff-serif { font-family: Athelas, Georgia, serif }
 
+.ff-mono { font-family: "source code pro", monospace, Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace, serif }
+
 @media( min-width: 0 ) {
   .p-1r\@mn { padding: 1rem }
 }
@@ -12,3 +14,9 @@
 @media( min-width: 768px ) {
   .p-4r\@md { padding: 4rem }
 }
+
+/* http://myacquisitions.blogspot.com/2013/03/googles-favorite-colors-by-hex-codes.html */
+a:link { color: #33aaff }
+a:link:hover { color: #1155cc }
+a:visited { color: #6611CC }
+a:visited:hover { color: #943aff }
